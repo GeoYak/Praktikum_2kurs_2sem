@@ -1,0 +1,1156 @@
+-------------------------
+2023-04-07 16:39:59.337259: Пользователь eorgyG авторизовался
+-------------------------
+2023-04-07 16:40:06.133331: Пользователь Georgy авторизовался
+-------------------------
+2023-04-07 16:40:10.338827: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено "help"
+-------------------------
+2023-04-07 16:40:10.338827: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено "incorrect request
+"
+-------------------------
+2023-04-07 16:41:03.048308: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено "pwd"
+-------------------------
+2023-04-07 16:41:03.048308: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '\
+'
+-------------------------
+2023-04-07 16:41:52.294068: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'mkdir 1'
+-------------------------
+2023-04-07 16:41:52.295065: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-07 16:41:56.848239: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'help'
+-------------------------
+2023-04-07 16:41:56.848239: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 16:41:59.753284: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'ls'
+-------------------------
+2023-04-07 16:41:59.754258: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '1
+'
+-------------------------
+2023-04-07 16:42:01.983627: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'pwd'
+-------------------------
+2023-04-07 16:42:01.983627: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '\
+'
+-------------------------
+2023-04-07 16:42:43.833297: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено ''
+-------------------------
+2023-04-07 16:42:43.833297: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 16:42:53.673653: Пользователь Georgy авторизовался
+-------------------------
+2023-04-07 16:43:00.029868: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'help'
+-------------------------
+2023-04-07 16:43:00.029868: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'pwd - выводит путь текущего каталога
+ls DIRECTORY- выводит содержимое каталога
+cd DIRECTORY- изменяет текущий каталог
+mkdir DIRECTORY - создает каталог
+rm PATH - удаляет директорию или каталог
+mv SOURCE DESTINATION - перемещает или переименовывает файл
+cat FILE - выводит содержимое файла
+touch FILE - создает пустой файл
+write FILE TEXT - добавляет текст в файл
+free - выводит информацию о памятиexit - разрыв соединения с сервером
+help - выводит справку по командам
+'
+-------------------------
+2023-04-07 17:19:55.659492: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'help'
+-------------------------
+2023-04-07 17:19:55.659492: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'pwd - выводит путь текущего каталога
+ls DIRECTORY- выводит содержимое каталога
+cd DIRECTORY- изменяет текущий каталог
+mkdir DIRECTORY - создает каталог
+rm PATH - удаляет директорию или каталог
+mv SOURCE DESTINATION - перемещает или переименовывает файл
+cat FILE - выводит содержимое файла
+touch FILE - создает пустой файл
+write FILE TEXT - добавляет текст в файл
+free - выводит информацию о памятиexit - разрыв соединения с сервером
+help - выводит справку по командам
+'
+-------------------------
+2023-04-07 17:19:57.382994: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено ''
+-------------------------
+2023-04-07 17:19:57.382994: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:20:13.304618: Пользователь Georgy авторизовался
+-------------------------
+2023-04-07 17:20:16.601968: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'help'
+-------------------------
+2023-04-07 17:20:16.601968: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'pwd - выводит путь текущего каталога
+ls DIRECTORY- выводит содержимое каталога
+cd DIRECTORY- изменяет текущий каталог
+mkdir DIRECTORY - создает каталог
+rm PATH - удаляет директорию или каталог
+mv SOURCE DESTINATION - перемещает или переименовывает файл
+cat FILE - выводит содержимое файла
+touch FILE - создает пустой файл
+write FILE TEXT - добавляет текст в файл
+free - выводит информацию о памяти
+exit - разрыв соединения с сервером
+help - выводит справку по командам
+'
+-------------------------
+2023-04-07 17:41:00.404285: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'exit'
+-------------------------
+2023-04-07 17:41:00.405249: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:41:37.066873: Пользователь test авторизовался
+-------------------------
+2023-04-07 17:41:37.066873: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 17:41:37.066873: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 17:41:37.167810: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 17:41:37.167810: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:37.267927: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 17:41:37.269906: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:37.367974: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 17:41:37.368914: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:37.468407: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cp new_file.txt new_dir'
+-------------------------
+2023-04-07 17:41:37.468407: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:41:37.568493: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_file.txt'
+-------------------------
+2023-04-07 17:41:37.569461: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:37.669027: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 17:41:37.670984: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:37.769608: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 17:41:37.769608: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:41:37.870911: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 17:41:37.871907: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:41:37.970959: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 17:41:37.971956: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:38.070773: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 17:41:38.070773: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:41:38.171274: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 17:41:38.171274: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:43:27.659317: Пользователь Georgy авторизовался
+-------------------------
+2023-04-07 17:43:37.086195: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'touch 1'
+-------------------------
+2023-04-07 17:43:37.086195: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-07 17:43:41.564073: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'touch 2'
+-------------------------
+2023-04-07 17:43:41.565045: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-07 17:43:49.153643: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'exit'
+-------------------------
+2023-04-07 17:43:49.154640: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:43:55.195110: Пользователь test авторизовался
+-------------------------
+2023-04-07 17:43:55.195110: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 17:43:55.195110: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 17:43:55.295782: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 17:43:55.295782: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:55.396141: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 17:43:55.396141: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:55.496495: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 17:43:55.498473: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:55.598117: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cp new_file.txt new_dir'
+-------------------------
+2023-04-07 17:43:55.598117: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:43:55.698702: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_file.txt'
+-------------------------
+2023-04-07 17:43:55.699697: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:55.798476: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 17:43:55.799417: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:55.898562: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 17:43:55.898562: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:43:55.998618: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 17:43:56.000664: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:43:56.098770: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 17:43:56.100769: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:56.199218: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 17:43:56.199218: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:43:56.299947: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 17:43:56.299947: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:55:14.961176: Пользователь test авторизовался
+-------------------------
+2023-04-07 17:55:14.961176: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 17:55:14.961176: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 17:55:15.062086: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 17:55:15.062086: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:15.162217: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 17:55:15.163214: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:15.262258: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 17:55:15.263221: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:15.362825: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cp new_file.txt new_dir'
+-------------------------
+2023-04-07 17:55:15.362825: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:55:15.463559: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_file.txt'
+-------------------------
+2023-04-07 17:55:15.463559: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:15.563733: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 17:55:15.563733: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:15.663735: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 17:55:15.663735: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:55:15.764740: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 17:55:15.764740: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:55:15.864977: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 17:55:15.864977: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:15.965706: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 17:55:15.965706: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:55:16.066413: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 17:55:16.066413: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 17:58:46.097209: Пользователь test авторизовался
+-------------------------
+2023-04-07 17:58:46.098206: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 17:58:46.098206: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 17:58:46.197943: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 17:58:46.197943: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:46.298700: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 17:58:46.299729: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:46.399774: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 17:58:46.402720: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:46.498912: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_file.txt'
+-------------------------
+2023-04-07 17:58:46.498912: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:46.598950: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 17:58:46.598950: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:46.699842: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 17:58:46.699842: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:58:46.800794: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 17:58:46.800794: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 17:58:46.901197: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 17:58:46.902162: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:47.001892: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 17:58:47.001892: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 17:58:47.102708: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 17:58:47.102708: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:08:00.980017: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:08:00.980017: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:08:00.980017: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:08:01.080657: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:08:01.080657: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:01.180866: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:08:01.180866: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:01.281186: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:08:01.282180: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:01.382174: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:08:01.382174: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:01.482470: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:08:01.483462: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 18:08:01.583160: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:08:01.583160: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 18:08:01.683891: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:08:01.683891: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-07 18:08:01.784622: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:08:01.784622: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:01.885516: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:08:01.885516: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:01.986274: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:08:01.986274: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:08:52.708317: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:08:52.709314: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:08:52.709314: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:08:52.809047: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:08:52.809047: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:08:52.909826: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:08:52.909826: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.011606: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:08:53.012601: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.111391: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:08:53.112388: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.212483: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:08:53.215460: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.312195: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:08:53.312195: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.412772: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:08:53.412772: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.513562: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:08:53.513562: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.613805: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:08:53.614753: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:08:53.714661: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:08:53.714661: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:09:29.328953: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:09:29.328953: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:09:29.328953: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:09:29.429691: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:09:29.429691: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:29.530428: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:09:29.530428: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_dir
+new_file.txt
+'
+-------------------------
+2023-04-07 18:09:29.631215: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:09:29.631215: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:29.731981: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:09:29.732952: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:29.832754: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:09:29.833752: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:29.933637: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:09:29.933637: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:30.034417: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:09:30.034417: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:30.135221: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:09:30.135221: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:30.235659: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:09:30.237655: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:09:30.336468: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:09:30.336468: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:11:14.142882: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:11:14.142882: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:11:14.142882: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:11:14.243625: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:11:14.243625: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:11:14.344575: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:11:14.346536: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:14.444760: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:11:14.445727: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:14.544826: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:11:14.546821: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:14.644982: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:11:14.648022: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:14.745737: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:11:14.745737: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:14.846770: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:11:14.847766: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:14.947565: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:11:14.948562: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:15.046686: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:11:15.046686: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:11:15.148658: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:11:15.149658: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:13:29.337303: Пользователь Georgy авторизовался
+-------------------------
+2023-04-07 18:13:31.614044: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено 'ls'
+-------------------------
+2023-04-07 18:13:31.615042: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено '1
+1.txt
+2.txt
+'
+-------------------------
+2023-04-07 18:13:39.703812: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy получено ''
+-------------------------
+2023-04-07 18:13:39.703812: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:13:46.710058: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:13:46.710058: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:13:46.710058: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:13:46.810806: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:13:46.810806: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:13:46.911508: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:13:46.912505: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.011874: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:13:47.011874: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.112611: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:13:47.113610: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.212743: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:13:47.214763: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.313425: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:13:47.313425: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.413479: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:13:47.414475: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.514964: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:13:47.515962: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.614727: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:13:47.615756: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:13:47.715291: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:13:47.715291: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:17:37.819661: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:17:37.820658: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:17:37.820658: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:17:37.919961: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:17:37.919961: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:17:38.021809: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:17:38.024801: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.121705: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:17:38.123729: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.221966: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:17:38.222874: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.322835: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:17:38.323814: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.422989: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'write renamed_file.txt some text'
+-------------------------
+2023-04-07 18:17:38.423986: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.524885: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:17:38.525852: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'some text
+'
+-------------------------
+2023-04-07 18:17:38.625935: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:17:38.626932: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.725266: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:17:38.725266: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.825610: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:17:38.825610: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:17:38.925885: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:17:38.926851: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:18:32.546937: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:18:32.547934: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:18:32.547934: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:18:32.647424: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:18:32.647424: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:32.748395: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:18:32.748395: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:32.849153: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:18:32.850123: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:32.949884: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:18:32.949884: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:18:33.051799: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:18:33.054842: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:33.150885: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'write renamed_file.txt some text'
+-------------------------
+2023-04-07 18:18:33.151884: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:33.252466: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:18:33.253463: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'some text
+'
+-------------------------
+2023-04-07 18:18:33.352157: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:18:33.352157: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:33.452731: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:18:33.452731: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:33.553556: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:18:33.553556: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:18:33.653612: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:18:33.653612: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:22:57.975331: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:22:57.975331: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:22:57.975331: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:22:58.075502: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:22:58.075502: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.175710: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:22:58.175710: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.276950: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:22:58.279943: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.376838: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:22:58.376838: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:22:58.476852: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:22:58.477849: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.577736: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'write renamed_file.txt some text'
+-------------------------
+2023-04-07 18:22:58.578710: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.677951: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:22:58.677951: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'some text
+'
+-------------------------
+2023-04-07 18:22:58.778120: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:22:58.778120: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.878719: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:22:58.878719: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:58.978853: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:22:58.978853: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:22:59.079588: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:22:59.079588: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:23:24.984034: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:23:24.984034: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:23:24.984034: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:23:25.084903: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:23:25.084903: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'new_file.txt
+'
+-------------------------
+2023-04-07 18:23:25.184939: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:23:25.185922: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.284989: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:23:25.284989: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.385800: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:23:25.386797: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.485971: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:23:25.488925: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.585994: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'write renamed_file.txt some text'
+-------------------------
+2023-04-07 18:23:25.586991: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.686848: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:23:25.686848: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'some text
+'
+-------------------------
+2023-04-07 18:23:25.787576: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:23:25.787576: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.888964: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:23:25.890003: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:25.988529: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:23:25.989494: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:23:26.088807: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:23:26.088807: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-07 18:24:53.410200: Пользователь test авторизовался
+-------------------------
+2023-04-07 18:24:53.411198: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'pwd'
+-------------------------
+2023-04-07 18:24:53.411198: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '\
+'
+-------------------------
+2023-04-07 18:24:53.510862: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'ls'
+-------------------------
+2023-04-07 18:24:53.510862: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:53.611713: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-07 18:24:53.612706: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:53.712184: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-07 18:24:53.712184: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:53.812914: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'touch new_file'
+-------------------------
+2023-04-07 18:24:53.813912: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:53.913696: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-07 18:24:53.914693: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:54.014469: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'write renamed_file.txt some text'
+-------------------------
+2023-04-07 18:24:54.015465: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:54.115231: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-07 18:24:54.115231: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'some text
+'
+-------------------------
+2023-04-07 18:24:54.216014: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-07 18:24:54.216014: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:54.316826: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'cd ~'
+-------------------------
+2023-04-07 18:24:54.316826: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:54.417659: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-07 18:24:54.417659: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено '
+'
+-------------------------
+2023-04-07 18:24:54.518503: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test получено ''
+-------------------------
+2023-04-07 18:24:54.518503: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server\5_FTP_server_molel\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-04-12 19:31:10.419693: Пользователь Georgy авторизовался
+-------------------------
+2023-04-12 19:35:32.839285: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'help'
+-------------------------
+2023-04-12 19:35:32.839285: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'pwd - выводит путь текущего каталога
+ls DIRECTORY- выводит содержимое каталога
+cd DIRECTORY- изменяет текущий каталог
+mkdir DIRECTORY - создает каталог
+rm PATH - удаляет директорию или каталог
+mv SOURCE DESTINATION - перемещает или переименовывает файл
+cat FILE - выводит содержимое файла
+touch FILE - создает пустой файл
+write FILE TEXT - добавляет текст в файл
+free - выводит информацию о памяти
+exit - разрыв соединения с сервером
+help - выводит справку по командам
+'
+-------------------------
+2023-04-12 19:36:09.757234: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'mkdir test'
+-------------------------
+2023-04-12 19:36:09.758232: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:37:19.217272: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'mkdir test1'
+-------------------------
+2023-04-12 19:37:19.218299: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:37:21.874745: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'ls'
+-------------------------
+2023-04-12 19:37:21.874745: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'test
+test1
+'
+-------------------------
+2023-04-12 19:37:45.528082: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'rm test1'
+-------------------------
+2023-04-12 19:37:45.529079: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:39:32.987902: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'touch test.txt'
+-------------------------
+2023-04-12 19:39:32.988900: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:45:21.867988: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'mv test.txt anothertest.txt'
+-------------------------
+2023-04-12 19:45:21.868989: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:47:01.489622: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'mv anothertest.txt test'
+-------------------------
+2023-04-12 19:47:01.490619: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:47:42.636097: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cd '
+-------------------------
+2023-04-12 19:47:42.637096: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-12 19:47:46.578986: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cd tst'
+-------------------------
+2023-04-12 19:47:46.578986: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-12 19:47:50.640681: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cd test'
+-------------------------
+2023-04-12 19:47:50.640681: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:48:31.344801: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'write anothertest.txt Hello World!'
+-------------------------
+2023-04-12 19:48:31.345766: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:50:55.788375: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cat anothertest.txt'
+-------------------------
+2023-04-12 19:50:55.789341: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'Hello World!
+'
+-------------------------
+2023-04-12 19:51:21.294211: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено ''
+-------------------------
+2023-04-12 19:51:21.294211: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-12 19:58:08.232801: Пользователь Georgy авторизовался
+-------------------------
+2023-04-12 19:59:40.178556: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'touch text.txt'
+-------------------------
+2023-04-12 19:59:40.180551: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-12 19:59:49.633550: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cp text.txt test'
+-------------------------
+2023-04-12 19:59:49.633550: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-12 20:01:05.843800: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено ''
+-------------------------
+2023-04-12 20:01:05.843800: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'incorrect request
+'
+-------------------------
+2023-04-12 20:01:15.004345: Пользователь Georgy авторизовался
+-------------------------
+2023-04-12 20:01:26.121632: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cp test.txt test'
+-------------------------
+2023-04-12 20:01:26.121632: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено 'Такой путь не существует
+'
+-------------------------
+2023-04-12 20:02:54.058280: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy получено 'cp test.txt test'
+-------------------------
+2023-04-12 20:02:54.059277: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.112870: Пользователь test авторизовался
+-------------------------
+2023-04-14 14:13:03.112870: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'pwd'
+-------------------------
+2023-04-14 14:13:03.113868: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '\
+'
+-------------------------
+2023-04-14 14:13:03.213486: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'ls'
+-------------------------
+2023-04-14 14:13:03.213486: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.313551: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'mkdir new_dir'
+-------------------------
+2023-04-14 14:13:03.313551: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.413996: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'cd new_dir'
+-------------------------
+2023-04-14 14:13:03.414942: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.514673: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'touch new_file'
+-------------------------
+2023-04-14 14:13:03.515670: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.615432: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'mv new_file.txt renamed_file.txt'
+-------------------------
+2023-04-14 14:13:03.616401: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.716171: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'write renamed_file.txt some text'
+-------------------------
+2023-04-14 14:13:03.717133: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:03.816865: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'cat renamed_file.txt'
+-------------------------
+2023-04-14 14:13:03.816865: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено 'some text
+'
+-------------------------
+2023-04-14 14:13:03.916937: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'rm renamed_file.txt'
+-------------------------
+2023-04-14 14:13:03.917935: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:04.016939: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'cd ~'
+-------------------------
+2023-04-14 14:13:04.016939: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:04.117640: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено 'rm new_dir'
+-------------------------
+2023-04-14 14:13:04.118638: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено '
+'
+-------------------------
+2023-04-14 14:13:04.218124: От пользователя C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test получено ''
+-------------------------
+2023-04-14 14:13:04.218124: Пользователю C:\Users\Georgy\PycharmProjects\pythonProject\2 курс 2 семестр\FTP_server_TRUE\docs\test отправлено 'incorrect request
+'
+-------------------------
+2023-05-24 19:37:12.246922: Пользователь Georgy авторизовался
+-------------------------
+2023-05-24 19:37:56.512922: От пользователя C:\Users\Mobile\PycharmProjects\pythonProject\2 curs 2 sem\FTP_server_TRUE\docs\Georgy получено 'mkdir testuy'
+-------------------------
+2023-05-24 19:37:56.518921: Пользователю C:\Users\Mobile\PycharmProjects\pythonProject\2 curs 2 sem\FTP_server_TRUE\docs\Georgy отправлено '
+'
+-------------------------
+2023-05-24 19:39:01.640223: От пользователя C:\Users\Mobile\PycharmProjects\pythonProject\2 curs 2 sem\FTP_server_TRUE\docs\Georgy получено ''
+-------------------------
+2023-05-24 19:39:01.642220: Пользователю C:\Users\Mobile\PycharmProjects\pythonProject\2 curs 2 sem\FTP_server_TRUE\docs\Georgy отправлено 'incorrect request
+'
